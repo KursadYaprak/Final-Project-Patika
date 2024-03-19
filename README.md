@@ -1,1 +1,3 @@
-# Final-Project-Patika-
+# Final-Project-Patika
+
+Patika+ Bitirme Projesi
