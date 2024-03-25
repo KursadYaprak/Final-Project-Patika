@@ -1,1 +1,0 @@
-# **Veterinary Management System**
