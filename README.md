@@ -4,6 +4,10 @@
 
 **https://veterinary-frontend-gamma.vercel.app**
 
+## **UML Diagram**
+
+![UML Vet](https://github.com/KursadYaprak/Final-Project-Patika/assets/100860710/b3d18f77-1664-446b-a529-22c0167794d0)
+
 ## **Getting Started**
 
 ### Used Languages and Tools
