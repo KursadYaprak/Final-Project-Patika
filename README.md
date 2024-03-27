@@ -7,6 +7,8 @@
 ## **Render Backend Live Adress**
 
 **https://final-project-patika.onrender.com**
+- **If you wanna try this API with Swagger UI you only need to add swagger URL to the end. Here I make it for you, you can just click to use it.**
+**https://final-project-patika.onrender.com/swagger-ui/index.html#**
 
 ## **UML Diagram**
 
