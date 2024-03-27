@@ -3,6 +3,9 @@
 ## **Live Site Down Bellow**
 
 **https://veterinary-frontend-gamma.vercel.app**
+- **Important note : Because I'm using a free database its working very slow when first opening.**
+- **You need to wait like 20-30 sec. to come all the data.**
+- **But after that all the data comes very fast when any page you change. Its only happening when you first open**
 
 ## **Render Backend Live Adress**
 
